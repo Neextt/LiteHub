@@ -1,0 +1,11 @@
+author: lxsthw
+name: LiteHub
+version: 1.2.0
+depend: [HadesUtils]
+main: ${main}
+
+commands:
+  manutencao:
+  discord:
+  online:
+  tp:
